@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
+import java.util.ArrayList;
+import java.util.List;
 
-public class RealInternet {
+class RealInternet implements Internet {
+    public void connectTo(String serverhost) throws Exception {
+        System.out.println("Conectando a " + serverhost + " ... OK");
+    }
 }

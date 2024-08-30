@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+import java.util.ArrayList;
+import java.util.List;
 
-public interface Internet {
+interface Internet {
+    void connectTo(String serverhost) throws Exception;
 }
