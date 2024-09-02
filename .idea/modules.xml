@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/padrões.iml" filepath="$PROJECT_DIR$/padrões.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge.iml" filepath="$PROJECT_DIR$/Bridge.iml" />
     </modules>
   </component>
 </project>
