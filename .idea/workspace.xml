@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="227f9971-18c5-478c-a29a-6e166ee9beea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bridge.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedRemote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicRemote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Device.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DigitalRadio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutputDemo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CompressionDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataSourceDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EncryptionDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileDataSource.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TV.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     "Application.ClientInternet.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "RemoteControl",
+    "git-widget-placeholder": "GeometricShape",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Juliana/Documents/TSI/padrões/AbstractFactoryPadroes",
     "node.js.detected.package.eslint": "true",
